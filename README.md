@@ -1,4 +1,4 @@
-# visp-julia
+# octra-julia
 Implementation of the data encoding method in the Julia language. StaticArray package is required.
 
 Var soup_bit depends on lambda and therefore vector_x, vector_y.
